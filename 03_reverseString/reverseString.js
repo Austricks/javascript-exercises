@@ -1,4 +1,5 @@
 const reverseString = function(input) {
+    let inputToArray = input.split('');
     
 };
 
